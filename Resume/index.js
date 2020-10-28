@@ -9,3 +9,4 @@ function unDo()
     document.querySelector('#image').style.backgroundImage = "url('')"; 
     document.querySelector('#image').innerHTML="Hover over a certificate below.";
 }
+alert("View this in Desktop mode!!!!!")
